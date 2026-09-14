@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+imageio
+numpy
+scipy
+matplotlib
+ipykernel

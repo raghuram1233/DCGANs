@@ -1,0 +1,41 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+
+# Training checkpoints & outputs
+Models/
+models/
+results/
+runs/
+outputs/
+test_out/
+logs/
+*.h5
+*.keras
+*.ckpt*
+events.out.tfevents.*
+
+# Datasets
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
